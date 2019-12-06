@@ -137,8 +137,8 @@ public class EventTableViewController: UITableViewController, UISearchResultsUpd
     
     @IBAction func getEventFromURL(_ sender: Any) {
         let keyword = "computer"
-        let token = "ZRD2AHUVZZXXZGBVDLQQ"
-        let token2 = "NYW4HQIZ3QLW723ZSJJ2"
+        let token = ""
+        let token2 = ""
         let filter_location = "Boston"
         let categories = 101
         let limit = 30
